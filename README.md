@@ -1,7 +1,7 @@
 Auto Strong - Algoritmo de Carga Inteligente para Máquinas de Exercício
 📌 Sobre o Projeto
 
-O SmartLoad Training é um protótipo de algoritmo desenvolvido para máquinas de exercício inteligentes — equipamentos capazes de ajustar automaticamente a carga aplicando resistência ativa, sem a necessidade de anilhas, halteres ou pesos físicos.
+O Auto Strong é um protótipo de algoritmo desenvolvido para máquinas de exercício inteligentes — equipamentos capazes de ajustar automaticamente a carga aplicando resistência ativa, sem a necessidade de anilhas, halteres ou pesos físicos.
 
 A motivação veio de um problema real encontrado em muitas academias públicas no Brasil: dificuldades de manutenção, vandalismo, risco de acidentes e falta de controle sobre a carga utilizada pelos praticantes.
 
